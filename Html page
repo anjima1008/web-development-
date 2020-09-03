@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewpoint" content="width=device-width , initial- scale=1.0" />
+    <title>SEM REGISTRATION</title>
+  </head>
+  <body>
+    <h1>SEMESTER REGISTRATION </h1>
+    <br/>
+    <hr/>
+   <p><h3>Here is the registration form for your btech sem registration.Please enter your correct details in the respective boxes otherwise you may not eligible. </h3></p>
+     <table border="2px black">   
+<tr> 
+
+  <td>
+    <h2>Registraition form</h2></td>
+  </tr>
+  <tr>
+      <td>
+    <label>Name</label><br>  
+    <input type="Name"name="name" placeholder="Name"</td></tr>
+  <td>
+    <label>Email Id</label><br>
+    <input type="Email Id" name ="name" placeholder="Email Id"         </td>
+<tr>
+   <td> 
+    <label>Semester</label><br>
+    <input type="Semester"name="name" placeholder="Semester"</td>
+   </tr>
+   <tr>
+    <td>  
+    <label>Department</label><br>
+    
+    <input type="Department"name="name" placeholder="Department"</td>
+<tr>
+    <td>
+      <label>Phone Number</label><br>
+    
+      <input type="Phone Number"name="name" placeholder="Phone Number"
+
+
+    </td>
+</tr>
+</table>
+ </body>
+</html>
